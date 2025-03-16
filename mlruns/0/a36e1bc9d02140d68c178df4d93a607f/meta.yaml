@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a36e1bc9d02140d68c178df4d93a607f/artifacts
+deleted_time: 1742119679944
+end_time: 1742118957081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a36e1bc9d02140d68c178df4d93a607f
+run_name: Decision Tree (Depth=10)
+run_uuid: a36e1bc9d02140d68c178df4d93a607f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742118949449
+status: 3
+tags: []
+user_id: aayus

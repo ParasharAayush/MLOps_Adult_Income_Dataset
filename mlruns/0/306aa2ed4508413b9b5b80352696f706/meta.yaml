@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/306aa2ed4508413b9b5b80352696f706/artifacts
+deleted_time: 1742119679937
+end_time: 1742118941031
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 306aa2ed4508413b9b5b80352696f706
+run_name: Random Forest (10 Trees)
+run_uuid: 306aa2ed4508413b9b5b80352696f706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742118934243
+status: 3
+tags: []
+user_id: aayus

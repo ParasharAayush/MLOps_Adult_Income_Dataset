@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/69a2150ff48c4effa5824205986c1051/artifacts
+end_time: 1742119622518
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 69a2150ff48c4effa5824205986c1051
+run_name: Logistic Regression
+run_uuid: 69a2150ff48c4effa5824205986c1051
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742119613009
+status: 3
+tags: []
+user_id: aayus
